@@ -6,7 +6,7 @@ submit with the Google Play Store listing.
 
 ## Host on GitHub Pages
 
-1. Push this repository to GitHub (the `docs/` folder must be on the `main` branch).
+1. Push this repository to GitHub.
 2. Go to your repository **Settings**.
 3. Open the **Pages** tab in the left sidebar.
 4. Under **Source**, choose **Deploy from a branch**.
@@ -22,13 +22,6 @@ https://<github-username>.github.io/<repo-name>/
 ```
 
 Use that URL in the **Privacy Policy** field of your Google Play Console listing.
-
-## Before you publish
-
-Replace the following placeholder in `index.html`:
-
-- `[YOUR_EMAIL_HERE]` — your support / privacy contact email (appears in the
-  **Contact Us** section and the `mailto:` link).
 
 The **Last updated** date is set to **June 6, 2026**. Update it whenever you make
 material changes to the policy.
